@@ -103,7 +103,7 @@ This script allows you to play or replay a Holoocean scenario using various comm
 #### Usage
 
 ```bash
-python your_script.py [--config CONFIG] [--manual | --no-manual] [--replay REPLAY]
+python record_replay.py [--config CONFIG] [--manual | --no-manual] [--replay REPLAY]
 ```
 
 #### Arguments
