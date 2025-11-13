@@ -1,5 +1,5 @@
 # Factor Graph Based SLAM fusing IMU, BearingRange and USBL(GPS) Factors
-This repository implements a factor graph and solves it incrementally with the iSAM2 algorithm from the GTSAM library https://gtsam.org/. This code corresponds to the paper: 
+This repository implements a factor graph and solves it incrementally with the iSAM2 algorithm from the GTSAM library https://gtsam.org/. This code corresponds to the paper: https://doi.org/10.5281/zenodo.17119839
 
 With HoloOcean (https://byu-holoocean.github.io/holoocean-docs/), this code implements a simple interface for generating a trajectory and the interial measurements, by either manually driving or replay an already driven trajectory. This allows for evaluation under different noise levels of the IMU. 
 
